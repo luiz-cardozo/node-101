@@ -22,4 +22,4 @@ Run tests
 yarn test
 ```
 
-HTTP requisitons are located in [a relative link](/asses/insomina.json)
+HTTP requisitons are located in [/asses/insomina.json]()
